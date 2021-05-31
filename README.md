@@ -1,4 +1,5 @@
 # Dicee 🎲
+This starting code for this app was provied by [London App Brewery](https://www.appbrewery.co/) in their Complete Flutter Development Bootcamp course on LinkedIn Learning. 
 
 ## Our Goal
 
